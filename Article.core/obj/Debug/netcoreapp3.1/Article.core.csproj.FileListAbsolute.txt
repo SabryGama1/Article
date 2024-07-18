@@ -1,0 +1,11 @@
+E:\Project\Article\Article.core\bin\Debug\netcoreapp3.1\Article.core.deps.json
+E:\Project\Article\Article.core\bin\Debug\netcoreapp3.1\Article.core.dll
+E:\Project\Article\Article.core\bin\Debug\netcoreapp3.1\Article.core.pdb
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.Properties.Resources.resources
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.csproj.GenerateResource.cache
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.AssemblyInfoInputs.cache
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.AssemblyInfo.cs
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.csproj.CoreCompileInputs.cache
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.dll
+E:\Project\Article\Article.core\obj\Debug\netcoreapp3.1\Article.core.pdb
